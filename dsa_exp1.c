@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define size 5
-int stack[5];
+int stack[size];
 int top;
 top=-1;
 int isEmpty(){
