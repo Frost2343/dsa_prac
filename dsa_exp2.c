@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define size 5
-int Q[5];
+int Q[size];
 int f=0,r=-1;
 int isFull(){
     if(r==size-1){
